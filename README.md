@@ -2,7 +2,7 @@
 # 🚀 Project Title: Plant Doctor 
 
 ## 📌 Overview
-[Brief one-paragraph summary of what this project does. Describe its purpose and core functionality.]
+Plant Doctor is a website that uses a machine learning model based on Convolutional Neural Networks (CNNs) to detect plant diseases and identify them accurately.
 
 ## 🧠 Key Features
 - ✅ Real-time tracking
